@@ -17,7 +17,7 @@ body {
 /* HERO SECTION */
 .hero {
     height: 100vh;
-    background: url('./image/Minimalistic\ White\ Sand\ Dunes.jpeg') no-repeat center center/cover;
+    background: url('Minimalistic\ White\ Sand\ Dunes.jpeg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
